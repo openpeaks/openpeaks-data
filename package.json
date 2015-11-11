@@ -1,0 +1,27 @@
+{
+  "name": "openpeaks-data",
+  "version": "0.0.1",
+  "description": "",
+  "main": "./lib/index.js",
+  "scripts": {
+    "test": "./node_modules/mocha/bin/mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/openpeaks/openpeaks-data.git"
+  },
+  "keywords": [
+    "openpeaks",
+    "data"
+  ],
+  "author": "Dumitru Cantea",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/openpeaks/openpeaks-data/issues"
+  },
+  "homepage": "https://github.com/openpeaks/openpeaks-data",
+  "dependencies": {
+    "lodash": "^3.10.1",
+    "vogels-helpers": "^0.1.0"
+  }
+}

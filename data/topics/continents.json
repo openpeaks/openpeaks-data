@@ -1,0 +1,11 @@
+[{
+  "id": "continent:asia",
+  "type": "continent",
+  "code": "asia",
+  "name": "Asic"
+}, {
+  "id": "continent:europe",
+  "type": "continent",
+  "code": "europe",
+  "name": "Europe"
+}]

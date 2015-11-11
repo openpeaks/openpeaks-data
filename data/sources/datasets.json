@@ -1,0 +1,21 @@
+[{
+  "id": "GDP_BY_COUNTRY_USD",
+  "name": "GDP by country (current US$)",
+  "url": "http://data.un.org/Handlers/DataHandler.ashx?Service=query&DataFilter=Indicator_Code%3aNY.GDP.MKTP.CD%3bCountry_Code%3a{{country.code3}}&DataMartId=WDI&UserQuery=&c=1,2,4,5&s=Country_Name:asc,Year:desc&RequestId=687",
+  "topic": "country",
+  "inactive": true
+}, {
+  "id": "BN_GSR_MRCH_CD",
+  "source": "WWDI",
+  "name": "Net trade in goods (BoP, current US$)",
+  "url": "https://www.quandl.com/api/v3/datasets/WWDI/{{country.code3}}_BN_GSR_MRCH_CD.json?auth_token={{env.QUANDL_API_KEY}}",
+  "topic": "country",
+  "frequency": "annual"
+}, {
+  "id": "NE_EXP_GNFS_ZS",
+  "name": "Exports of goods and services (% of GDP)",
+  "url": "https://www.quandl.com/api/v3/datasets/WWDI/{{country.code3}}_BN_GSR_MRCH_CD.json?auth_token={{env.QUANDL_API_KEY}}",
+  "topic": "country",
+  "frequency": "annual",
+  "inactive": true
+}]

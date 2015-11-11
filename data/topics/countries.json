@@ -1,0 +1,36 @@
+[{
+  "id": "country:pt",
+  "type": "country",
+  "code": "pt",
+  "code3": "PRT",
+  "parents": ["continent:europe"],
+  "name": "Portugal"
+}, {
+  "id": "country:al",
+  "type": "country",
+  "code": "al",
+  "code3": "ALB",
+  "parents": ["continent:europe"],
+  "name": "Albania"
+}, {
+  "id": "country:ad",
+  "type": "country",
+  "code": "ad",
+  "code3": "AND",
+  "parents": ["continent:europe"],
+  "name": "Andorra"
+}, {
+  "id": "country:md",
+  "type": "country",
+  "code": "md",
+  "code3": "MDA",
+  "parents": ["continent:europe"],
+  "name": "Moldova"
+}, {
+  "id": "country:ro",
+  "type": "country",
+  "code": "ro",
+  "code3": "ROU",
+  "parents": ["continent:europe"],
+  "name": "Romania"
+}]

@@ -1,0 +1,15 @@
+[{
+  "id": "BN_GSR_MRCH_CD",
+  "source": "BN_GSR_MRCH_CD",
+  "name": "Net trade in goods (BoP, current US$)",
+  "column": 1,
+  "type": "value",
+  "frequency": "annual"
+}, {
+  "id": "BN_GSR_MRCH_CD.topic",
+  "source": "BN_GSR_MRCH_CD",
+  "name": "Net trade in goods (BoP, current US$) / topic",
+  "column": 1,
+  "type": "topic",
+  "frequency": "annual"
+}]
