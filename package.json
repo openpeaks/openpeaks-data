@@ -1,6 +1,6 @@
 {
   "name": "openpeaks-data",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "",
   "main": "./lib/index.js",
   "scripts": {
@@ -21,7 +21,9 @@
   },
   "homepage": "https://github.com/openpeaks/openpeaks-data",
   "dependencies": {
+    "js-yaml": "^3.4.3",
     "lodash": "^3.10.1",
+    "request": "^2.65.0",
     "vogels-helpers": "^0.1.0"
   }
 }
