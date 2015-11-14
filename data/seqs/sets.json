@@ -16,17 +16,17 @@
   "count": 1,
   "inactive": true
 }, {
-  "id": "MOBTEL.VALUE",
-  "source": "MOBTEL",
+  "id": "MOBTEL100.VALUE",
+  "source": "MOBTEL100",
   "name": "Mobile and cellular telephone subscriptions per 100 inhabitants.",
   "valueColumn": 1,
   "type": "value",
   "frequency": "annual",
-  "count": 20,
+  "count": 25,
   "minValue": 0
 }, {
-  "id": "MOBTEL.TOP",
-  "source": "MOBTEL",
+  "id": "MOBTEL100.TOP",
+  "source": "MOBTEL100",
   "name": "Mobile and cellular telephone subscriptions per 100 inhabitants.",
   "valueColumn": 1,
   "type": "latest_topic",

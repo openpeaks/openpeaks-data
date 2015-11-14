@@ -18,8 +18,8 @@
   "topic": "country",
   "inactive": true
 }, {
-  "id": "MOBTEL",
+  "id": "MOBTEL100",
   "name": "Mobile and cellular telephone subscriptions per 100 inhabitants.",
   "url": "https://www.quandl.com/api/v3/datasets/UGID/MOBTEL_{{country.cca3}}.json?auth_token={{env.QUANDL_API_KEY}}",
-  "topic": "country"
+  "target": "country"
 }]
