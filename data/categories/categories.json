@@ -1,0 +1,22 @@
+[{
+  "id": "society",
+  "name": "Society"
+}, {
+  "id": "economy",
+  "name": "Economy"
+}, {
+  "id": "development",
+  "name": "Development"
+}, {
+  "id": "demography",
+  "name": "Demography",
+  "parent": "society"
+}, {
+  "id": "health",
+  "name": "Health",
+  "parent": "society"
+}, {
+  "id": "tech",
+  "name": "Technology",
+  "parent": "development"
+}]
