@@ -8,6 +8,9 @@
   "id": "development",
   "name": "Development"
 }, {
+  "id": "entertainment",
+  "name": "Entertainment"
+}, {
   "id": "demography",
   "name": "Demography",
   "parent": "society"
