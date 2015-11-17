@@ -24,7 +24,6 @@
     "bluebird": "^3.0.5",
     "js-yaml": "^3.4.3",
     "lodash": "^3.10.1",
-    "request": "^2.65.0",
-    "vogels-helpers": "^0.1.0"
+    "request": "^2.65.0"
   }
 }
