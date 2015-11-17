@@ -1,0 +1,25 @@
+[{
+  "id": "society",
+  "name": "Societate"
+}, {
+  "id": "economy",
+  "name": "Economie"
+}, {
+  "id": "development",
+  "name": "Dezvoltare"
+}, {
+  "id": "entertainment",
+  "name": "Diverse"
+}, {
+  "id": "demography",
+  "name": "Demografie",
+  "parent": "society"
+}, {
+  "id": "health",
+  "name": "Sanatate",
+  "parent": "society"
+}, {
+  "id": "tech",
+  "name": "Tehnologie",
+  "parent": "development"
+}]
